@@ -15,8 +15,7 @@
 ![stacked_bar_16s_family_type_of_sample](https://user-images.githubusercontent.com/62360632/177225632-2839d629-eea7-479a-89af-9e291ac5fa74.png)
 Figure. Stacked bar plot (family level), taxa with relative abundance < 0.1 merged as "Other"
 
-![alpha_and_beta](https://user-images.githubusercontent.com/62360632/176947009-481a7cbd-d42c-4257-9884-34515a87a271.png)
-
+![diversity_16s_type_of_sample](https://user-images.githubusercontent.com/62360632/177237867-7a3088ab-fa19-4ac7-a767-f454a9e8dced.png)
 Figure. **(A)** Alpha diversity measurement (Observed, Shannon index, and InvSimpson index) between Inflorescence and Pseudoflower. Wilcox test were used to calculate statistical sigfinicance (p-value). **(B)** PCA ordination plot based on Euclidean distance of CLR transformed family count. 
 
 #### 2. Fungal community
@@ -24,7 +23,7 @@ Figure. **(A)** Alpha diversity measurement (Observed, Shannon index, and InvSim
 ![stacked_bar_ITS_genus_type_of_sample](https://user-images.githubusercontent.com/62360632/177225711-586fa668-93a4-4a22-8e82-16572c6cb419.png)
 Figure. Stacked bar plot (genus level), taxa with relative abundance < 0.1 merged as "Other"
 
-![alpha_and_beta_ITS](https://user-images.githubusercontent.com/62360632/176949137-b306fa7c-a66a-4111-82fa-d64664d2e143.png)
+![diversity_ITS_type_of_sample](https://user-images.githubusercontent.com/62360632/177237908-930684b3-d476-431f-8daf-411a44b44b39.png)
 Figure. **(A)** Alpha diversity measurement (Observed, Shannon index, and InvSimpson index) between Inflorescence and Pseudoflower. Wilcox test were used to calculate statistical sigfinicance (p-value). **(B)** PCA ordination plot based on Euclidean distance of CLR transformed genus count. 
 
 ---
@@ -36,7 +35,7 @@ Figure. **(A)** Alpha diversity measurement (Observed, Shannon index, and InvSim
 ![stacked_bar_16s_family_date](https://user-images.githubusercontent.com/62360632/177226386-a54f1178-fb32-4542-acaf-148e237536fe.png)
 Figure. Stacked bar plot (family level), taxa with relative abundance < 0.01 merged as "Other"
 
-![alpha_and_beta_16s_date](https://user-images.githubusercontent.com/62360632/176953248-6267c0fa-aa40-449e-b915-03ae0c61de01.png)
+![diversity_16s_collection_date](https://user-images.githubusercontent.com/62360632/177238401-55cc4b36-398b-48cd-8ab8-0d710c5e8dca.png)
 Figure. **(A)** Alpha diversity measurement (Observed, Shannon index, and InvSimpson index) between two collection date. Wilcox test were used to calculate statistical sigfinicance (p-value). **(B)** PCA ordination plot based on Euclidean distance of CLR transformed genus count. 
 
 #### 2. Fungal community
@@ -44,7 +43,7 @@ Figure. **(A)** Alpha diversity measurement (Observed, Shannon index, and InvSim
 ![stacked_bar_ITS_genus_date](https://user-images.githubusercontent.com/62360632/177228674-e28cb819-a302-4425-ac62-30c80d41a480.png)
 Figure. Stacked bar plot (genus level), taxa with relative abundance < 0.01 merged as "Other"
 
-![alpha_and_beta_ITS_date](https://user-images.githubusercontent.com/62360632/176954092-c606738d-53a1-4f06-8e10-a71ddf50c312.png)
+![diversity_ITS_collection_date](https://user-images.githubusercontent.com/62360632/177238701-6159e4b4-5b70-4249-824c-33796396d8aa.png)
 Figure. **(A)** Alpha diversity measurement (Observed, Shannon index, and InvSimpson index) between two collection date. Wilcox test were used to calculate statistical sigfinicance (p-value). **(B)** PCA ordination plot based on Euclidean distance of CLR transformed genus count. 
 
 ---
